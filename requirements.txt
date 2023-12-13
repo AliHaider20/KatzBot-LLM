@@ -1,0 +1,9 @@
+torch
+transformers
+peft
+bitsandbytes
+trl
+scipy
+deepsparse
+sparseml
+einops
