@@ -1,6 +1,9 @@
 import streamlit as st
 from transformers import AutoTokenizer, pipeline
 
+st.run("pip install torch transformers peft bitsandbytes trl scipy")
+
+
 # model_id = "neuralmagic/OpenHermes-2.5-Mistral-7B-pruned50-quant-ds"
 model_id = "mistralai/Mistral_Instruct_Latest"
 
