@@ -1,2 +1,5 @@
-# KatzBot-LLM
-Code files for data preparation and fine tuning models
+# KatzBot-LLM - A chatbot to answer questions related to the Yeshiva University
+
+## Data description
+
+
