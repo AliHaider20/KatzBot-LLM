@@ -6,6 +6,9 @@ KatzBot leverages the Katz generative pre-trained transformer (KatzGPT) to enhan
 
 KatzBot aims to revolutionize the academic chatbot experience by using a custom large language model (LLM) tailored specifically to the needs of the Yeshiva University community. It utilizes two meticulously curated datasets comprising sentence completion and question-answer pairs to train the KatzGPT model, thereby improving its accuracy and effectiveness.
 
+## Paper
+https://www.researchgate.net/publication/384906751_KatzBot_Revolutionizing_Academic_Chatbot_for_Enhanced_Communication
+
 ## Features
 
 - **Enhanced Communication**: Provides precise and contextually relevant answers to various university-related queries.
